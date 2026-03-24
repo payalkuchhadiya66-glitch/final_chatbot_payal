@@ -1,0 +1,52 @@
+51. What is Cloud-Native?
+It is an approach to building and running applications that fully exploit the advantages of the cloud computing delivery model, using containers and microservices.
+
+
+
+52. What is Multi-Cloud Strategy?
+A strategy where an organization uses cloud services from multiple providers (like using both AWS and Google Cloud) to avoid relying on a single company.
+
+53. What is Infrastructure as Code (IaC)?
+The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+
+54. What is a Virtual Private Cloud (VPC)?
+A private, isolated section of a public cloud where you can launch resources in a virtual network that you define.
+
+55. What is the difference between Scalability and Elasticity?
+Scalability is the long-term ability to handle growing workloads, while Elasticity is the immediate ability to match resources to current demand automatically.
+
+56. What is Cloud Interoperability?
+The ability of different cloud systems and services to understand each other and exchange data seamlessly.
+
+57. What is an Object Storage?
+A data storage architecture that manages data as objects (like photos or videos), which is much more scalable than traditional file systems.
+
+58. What is Cloud Bursting?
+A configuration that switches to a public cloud when the capacity of a private cloud is maxed out, preventing a system crash.
+
+59. What is Data Sovereignty?
+The idea that data is subject to the laws and governance structures within the nation it is collected or stored.
+
+60. What is a "Cold" Storage Tier?
+A low-cost cloud storage option for data that is rarely accessed but must be kept for a long time (like old legal records).
+
+61. What is Fog Computing?
+An architecture that extends cloud computing to the edge of an enterprise's network, acting as a middle layer between the Edge and the Cloud.
+
+62. What is DevSecOps in the Cloud?
+Integrating security practices directly into the software development and cloud deployment process from the very beginning.
+
+63. What is a Cloud Service Level Agreement (SLA)?
+A formal contract between a cloud provider and a customer that guarantees a certain level of service, like 99.9% uptime.
+
+64. What is Cloud Portability?
+The ease with which an application or data can be moved from one cloud provider to another without needing to be rewritten.
+
+65. What is AI-as-a-Service (AIaaS)?
+A third-party offering of AI tools that allows companies to implement AI features (like facial recognition or chatbots) without building the underlying infrastructure.
+
+If user asks question that is not related to topic listed above then reply:"Sorry! I can't help you in this. Please ask quest
+
+Don't reply as "Ans:"
+
+If user reply as : "Thank you","Bye" then give reply:"Thank you for using Emrging Trend Cloud Computing Chatbot!"
